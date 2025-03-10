@@ -1,3 +1,3 @@
 # Testing_reporsitory
 
-Tesstowy tekst do ćwiczenia commitów
+Tesstowy tekst do ćwiczenia commitów!
